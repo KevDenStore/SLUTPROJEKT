@@ -4,5 +4,6 @@ public class Main {
 
     public class MyFrame extends jFrame{
  MyFrame(){}
+        .
     }
 }
