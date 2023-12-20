@@ -14,7 +14,7 @@ public class Panel extends JPanel{
     public Panel() {
         this.setPreferredSize(new Dimension(screenWidth, screenHeight));
         this.setBackground(Color.black);
-        this.setDoubleBuffered(true); //öka prestandan
+        this.setDoubleBuffered(true); //öka prestandan :)
 
     }
 
