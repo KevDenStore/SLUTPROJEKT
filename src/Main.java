@@ -1,8 +1,9 @@
-import javax.swing.JFrame;
 public class Main {
     public static void main(String[] args) {
+        new GameFrame();
+    }
 
-        /* skärminställningar */
+        /* skärminställningar
         JFrame window = new JFrame("Cool Window");
         window.setResizable(false);
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -20,3 +21,7 @@ public class Main {
     }
 
 }
+
+ */
+
+
